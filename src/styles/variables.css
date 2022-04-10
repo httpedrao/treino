@@ -1,0 +1,13 @@
+:root {
+	/* Colors */
+	--dark-grey: #353535;
+	--red: #EB513C;
+	--text: #2f2f2f;
+	--white: #fff;
+
+	/* Typography */
+	--fs-big: 4em;
+
+	/* Defaults */
+	--border-radius-default: 5px;
+}
